@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
       //  intro.setFlags(intro.getFlags() | Intent.FLAG_ACTIVITY_NO_HISTORY);
       //  startActivity(intro);
 
-
+    //
     }
 
     //Inflate menu to bottom bar
