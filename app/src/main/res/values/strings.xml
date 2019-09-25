@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calloger</string>
+    <string name="refferalix">Refferalix</string>
+    <string name="or_login">OR LOGIN WITH</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="google">Google</string>
+</resources>
